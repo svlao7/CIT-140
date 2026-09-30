@@ -1,0 +1,129 @@
+{
+  "format": "command-nexus-weekly-report",
+  "schemaVersion": 1,
+  "courseId": "CIT140",
+  "week": 2,
+  "assignmentId": "CIT140-W02-BUSINESS-CASE",
+  "artifactType": "business-case-recommendation",
+  "caseId": "meridian-forge",
+  "reportId": "7338908f-b4ce-42fe-b617-da219b084e72",
+  "revision": 2816,
+  "createdAt": "2026-09-29T03:28:46.810Z",
+  "exportedAt": "2026-09-30T00:30:39.455Z",
+  "learnerLabel": "CIT140_Week2_MeridianForge_Recommendation",
+  "contentStatus": "complete-fields",
+  "sections": [
+    {
+      "id": "project",
+      "title": "Proposed project",
+      "value": "Due to lack of evidences as to why the problem occured, we should do a QA Control Review where we can determine who owns command authorization, check retired tests and control it, and preserve the evidences so that we can troubleshoot the problem accurately."
+    },
+    {
+      "id": "need",
+      "title": "Business need",
+      "value": "Base on the data gathered and to solutions suggested, we should identify the ownership of command authorizations, make sure the evidences are preserved, and troubleshoot the problem with the information gathered through the requested records.\n\n"
+    },
+    {
+      "id": "value",
+      "title": "Expected value and beneficiaries",
+      "value": "Through investigation and troubleshooting the problem, we can move forward the production of MR-17. The Estimate is within the budget as well ($2,820 vs. $3,000 envelope)."
+    },
+    {
+      "id": "scopeIn",
+      "title": "Included work",
+      "value": "The deliverables are one command-ownership record, one scheduling/retirement control inventory, and one evidence-preservation checklist."
+    },
+    {
+      "id": "scopeOut",
+      "title": "Excluded work",
+      "value": "Restarting MR-17 and modyifing its records are excluded."
+    },
+    {
+      "id": "technical",
+      "title": "Technical feasibility",
+      "value": "The available tools can support the review but there are few details that are still needed to be gathered that the tools available haven't yet obtained"
+    },
+    {
+      "id": "operational",
+      "title": "Operational feasibility",
+      "value": "Nia can confirm availability and can assign roles for fixing this problem based on the gathered evidence"
+    },
+    {
+      "id": "resources",
+      "title": "Cost and resource feasibility",
+      "value": "No equipment purchase, software license or overtime allowance is included in the budget."
+    },
+    {
+      "id": "schedule",
+      "title": "Schedule feasibility",
+      "value": "The risk identified with the 8-day plan would be the late exports of data, and shift reassignment. 48 hours of Staff hours does not mean that a job will be done within 48-hours."
+    },
+    {
+      "id": "constraints",
+      "title": "Known constraints",
+      "value": "Known contraints are the possible equipment purchases and software license which is not included in the budget. The 10-day limit is a constraint as well"
+    },
+    {
+      "id": "risks",
+      "title": "Risks and assumptions",
+      "value": "Exports arrive by day 3. Late arrivals will delay Engineering. The one in-charge in access and exports should check it."
+    },
+    {
+      "id": "success",
+      "title": "Success measures and evidence",
+      "value": "From the six requests came two results with an identified custodin and a link to the original source of the problem\n"
+    },
+    {
+      "id": "recommendation",
+      "title": "Recommendation",
+      "value": "proceed"
+    },
+    {
+      "id": "rationale",
+      "title": "Rationale and conditions",
+      "value": "The estimate is within the budget. It is below 3,000 USD. Three deliverables are measurable by both Nia and Elias. The risk are identified and manageable."
+    },
+    {
+      "id": "nextStep",
+      "title": "Next authorization or information step",
+      "value": "Nia and Elias are the people I recommend to lead out the project as they are the ones who analyzed and worked with the robot. They also have the important information needed to lead the project. "
+    }
+  ],
+  "sources": [
+    {
+      "id": "W02-S01",
+      "title": "Request for a bounded review",
+      "locator": "Week 2 decision packet · W02-S01"
+    },
+    {
+      "id": "W02-S02",
+      "title": "Evidence-retrieval workload",
+      "locator": "Week 2 decision packet · W02-S02"
+    },
+    {
+      "id": "W02-S03",
+      "title": "Proposed scope and current workflow",
+      "locator": "Week 2 decision packet · W02-S03"
+    },
+    {
+      "id": "W02-S04",
+      "title": "Capacity, access and operating limits",
+      "locator": "Week 2 decision packet · W02-S04"
+    },
+    {
+      "id": "W02-S05",
+      "title": "Estimate and success-measure sheet",
+      "locator": "Week 2 decision packet · W02-S05"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "repository-check",
+      "filename": "Week02_Repository_Check.png",
+      "kind": "supporting-evidence",
+      "caption": "Required Week 2 repository screenshot; supply the actual file separately. This reference does not verify an upload.",
+      "sourceIds": []
+    }
+  ],
+  "relatedReportIds": []
+}
